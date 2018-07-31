@@ -1,4 +1,4 @@
-# jianli
+# 基于vue的简单个人简历
 
 > A Vue.js project
 
